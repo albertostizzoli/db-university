@@ -5,3 +5,10 @@ COUNT(*) AS `number_of_members`
 FROM `students`
 GROUP BY `year_of_registration`
 ORDER BY `year_of_registration`;
+
+2. Contare gli insegnanti che hanno l'ufficio nello stesso edificio
+
+SELECT `office_address`, COUNT(*) AS `number_of_teachers`
+FROM `teachers`
+GROUP BY `office_address`
+HAVING COUNT(*) > 1;
