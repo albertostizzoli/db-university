@@ -24,3 +24,7 @@ Esportare quindi il diagramma in jpg o png e caricarlo nella repo.
 Dopo aver creato un nuovo database nel vostro phpMyAdmin e aver importato lo schema allegato, eseguite le query del file allegato.
 Cosa consegnare?
 Dopo aver testato le vostre query con phpMyAdmin, riportatele in un file txt e caricatelo nella vostra repo.
+
+## 3'Parte(13/12/2023):
+
+Come ieri, dopo aver testato le vostre query con phpMyAdmin, riportatele in un file join.txt e caricatelo nella vostra repo.
